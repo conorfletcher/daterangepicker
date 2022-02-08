@@ -209,9 +209,9 @@
 }
 
 .daterangepicker td.active, .daterangepicker td.active:hover {
-  background-color: #A5A5A5;
-  border-color: transparent;
-  color: #fff;
+    background-color: #28211e;
+    border-color: transparent;
+    color: #fff;
 }
 
 .daterangepicker th.month {

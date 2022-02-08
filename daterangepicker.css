@@ -12,7 +12,7 @@
   left: 20px;
   z-index: 3001;
   display: none;
-  font-family: inherit;
+  font-family: gitan-latin;
   font-size: 15px;
   line-height: 1em;
 }
@@ -190,7 +190,7 @@
 }
 
 .daterangepicker td.in-range {
-  background-color: #ebf4f8;
+  background-color: #7d7d7d;
   border-color: transparent;
   color: #000;
   border-radius: 0;
@@ -209,7 +209,7 @@
 }
 
 .daterangepicker td.active, .daterangepicker td.active:hover {
-  background-color: #357ebd;
+  background-color: #A5A5A5;
   border-color: transparent;
   color: #fff;
 }
